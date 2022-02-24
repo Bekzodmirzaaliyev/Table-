@@ -1,0 +1,22 @@
+table {
+    background-color: #3a4c52;
+}
+
+th {
+    color: #ffff;
+    font-size: 16px;
+}
+
+td {
+    color: #ffff !important;
+    font-size: 12px !important;
+}
+
+span {
+    color: #ffff;
+}
+
+.form-control {
+    height: 23px !important;
+    margin-left: 10px;
+}
